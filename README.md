@@ -24,7 +24,7 @@ $ python main.py
 
 ### github clone
 
-`$ git clone {repo addr}
+`$ git clone {repo addr}`
 
 ### Using Homebrew(for Windows)
 
