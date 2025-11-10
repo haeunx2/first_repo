@@ -1,4 +1,4 @@
-![](https://www.pexels.com/ko-kr/photo/416160/)
+![](https://www.pexels.com/ko-kr/photo/416160/.jpeg)
 
 # First Repo
 
